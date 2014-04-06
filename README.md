@@ -7,7 +7,7 @@ Take this repo and place it in the root path of the meta-project.  For example,
 your directories could look like:
 
 ```
-farmsquare (this dir can be named whatever you'd like)
+freshfinder (this dir can be named whatever you'd like)
 |\
 | processes/
 | frontend/
